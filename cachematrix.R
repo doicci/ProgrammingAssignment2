@@ -35,6 +35,6 @@ cacheSolve <- function(x, ...) {
 
 
 
-x <- makeCacheMatrix(rbind(c(2,3),c(2,2)))
-cacheSolve(x)
-cacheSolve(x)
+##x <- makeCacheMatrix(rbind(c(2,3),c(2,2)))
+## cacheSolve(x)
+## cacheSolve(x)
